@@ -11,16 +11,17 @@
   </ul>
   </li>
 </ul>
-<h4>📜 main.py – Game Controller</h4>
-<ul>
-  <li>Key Responsibilities:
+<h4>📜 main.py – Game Controller 
   <ul>
-    <li>Sets up the game screen using turtle.Screen().</li>
-    <li>Creates the player, car manager, and scoreboard.</li>
-    <li>Listens for keypresses to move the turtle (Up arrow).</li>
+    <li>Key Responsibilities:
+    <ul>
+      <li>Sets up the game screen using turtle.Screen().</li>
+      <li>Creates the player, car manager, and scoreboard.</li>
+      <li>Listens for keypresses to move the turtle (Up arrow).</li>
+    </ul>
+    </li>
   </ul>
-  </li>
-</ul>
+</h4>
 <h4>🐢 player.py – Player Class</h4>
 <ul>
   <li>Features:
