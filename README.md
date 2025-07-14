@@ -4,7 +4,7 @@
 <ul>
   <li>The project is modular and organized into several classes:
   <ul>
-    <li>main.py :	Game loop, key bindings, and game logic</li>
+    <li><b>main.py :</b>	Game loop, key bindings, and game logic</li>
     <li>player.py :	Defines the player turtle</li>
     <li>car_manager.py :	Generates and moves cars</li>
     <li>scoreboard.py :	Displays and updates game level and messages</li>
