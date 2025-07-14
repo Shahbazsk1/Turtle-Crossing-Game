@@ -1,5 +1,5 @@
 # 🐢 Turtle-Crossing-Game
-<h>2Help the turtle cross the road without getting hit by cars. Each successful crossing increases the game level and speeds up the cars. The game ends when the turtle collides with a car.
+<h2>Help the turtle cross the road without getting hit by cars. Each successful crossing increases the game level and speeds up the cars. The game ends when the turtle collides with a car.
 </h2>
 
 
